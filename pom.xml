@@ -61,7 +61,7 @@
     <surefire.version>2.12</surefire.version>
     <surefire.timeout>900</surefire.timeout>
     <test.output.tofile>true</test.output.tofile>
-    <junit.version>4.11</junit.version>
+    <junit.version>4.13.1</junit.version>
   </properties>
 
   <build>
